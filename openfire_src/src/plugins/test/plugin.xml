@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<class>test_plugin.PushPlugin</class>
+	<name>push</name>
+	<description>test plugin</description>
+	<author>wl</author>
+	<version>1.0</version>
+	<date>09/13/2013</date>
+	<minServerVersion>3.9.0</minServerVersion>
+</plugin>

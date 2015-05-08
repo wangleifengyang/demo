@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<class>nick_plugin.NickPlugin</class>
+	<name>nick</name>
+	<description>modify self nick and friend nick</description>
+	<author>wl</author>
+	<version>1.0</version>
+	<date>05/08/2015</date>
+	<minServerVersion>3.9.0</minServerVersion>
+</plugin>
